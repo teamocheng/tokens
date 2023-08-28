@@ -1,0 +1,11 @@
+{
+    "name": "MT-C",
+    "website": "https://twitter.com/wufu365",
+    "description": "FUCOIN is a Cryptocurrency based on decentralization, adopting point-to-point network and Stigmergy, Open-source model, and blockchain as the underlying technology, which is created by the Fujin community.",
+    "explorer": "https://etherscan.io/address/0xd90f44fa9e39a0792D6F8Bbf77474D9a0E4413D1",
+    "type": "ERC20",
+    "symbol": "MT-C",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd90f44fa9e39a0792D6F8Bbf77474D9a0E4413D1"
+  }
